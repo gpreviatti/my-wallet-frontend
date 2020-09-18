@@ -4,10 +4,10 @@ System to control finnaces and stock portifolio
 
 ## Tecnologies
 
-- [VueJs] (https://vuejs.org/)
-- [Vue-router] (https://router.vuejs.org/)
+- [VueJs](https://vuejs.org/)
+- [Vue-router](https://router.vuejs.org/)
 - [Bootstrap (bootstrap-vue)](https://bootstrap-vue.org/)
-- [ChartJs] (https://www.chartjs.org/)
+- [ChartJs](https://www.chartjs.org/)
 
 ## Todo
 
