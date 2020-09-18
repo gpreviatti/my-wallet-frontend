@@ -24,8 +24,12 @@ System to control finnaces and stock portifolio
     - [ ] Add reports by months, weeks and years
   - [ ] Wallets
     - [ ] create/edit and remove Wallet
-- [ ] Add api comunication (start backend development)
+  - [ ] Investiments
+    - [ ] Add stocks to wallet of stocks
+    - [ ] Support to other tips of investiments to control
+- [ ] Add api comunication with backend application
 - [ ] Authentication
+- [ ] Deploy at [heroku](https://heroku.com/)
 - [ ] Landing page
 
 ## Project setup
