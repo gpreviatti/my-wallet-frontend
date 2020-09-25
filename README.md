@@ -29,7 +29,7 @@ System to control finnaces and stock portifolio
     - [ ] Support to other tips of investiments to control
 - [ ] Add api comunication with backend application
 - [ ] Authentication
-- [ ] Deploy at [heroku](https://heroku.com/)
+- [ ] Deploy at [heroku](https://medium.com/netscape/deploying-a-vue-js-2-x-app-to-heroku-in-5-steps-tutorial-a69845ace489)
 - [ ] Landing page
 
 ## Project setup
